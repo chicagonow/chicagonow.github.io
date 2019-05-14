@@ -1,2 +1,2 @@
 # web
-static web site
+static web site: https://chicagonow.github.io/
